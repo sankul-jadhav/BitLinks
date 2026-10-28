@@ -15,7 +15,7 @@ export default function About() {
           </h1>
 
           <p className="mb-8 text-lg leading-8 text-gray-700">
-            BitLinks is a simple URL shortener designed to turn long,
+            BitLinks is a simple and easy URL shortener designed to turn long,
             complicated URLs into short, easy-to-share links. Our goal
             is to make sharing links straightforward and convenient.
           </p>
