@@ -130,8 +130,7 @@ Through this project, I practiced:
 - Implement redirects from short URLs to their original destinations.
 - Add URL validation and stronger error handling.
 - Add user authentication and link management.
-- Track link visits and provide basic analytics.
-- Add automated API tests.
+
 
 ## 👨‍💻 Developer
 
